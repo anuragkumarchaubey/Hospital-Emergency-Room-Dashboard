@@ -10,12 +10,12 @@ Age Distribution Analysis – Age group segmentation using DAX formulas
 
 Timeliness of Care – Tracks patients seen within 30 minutes
 
-![project 1](https://github.com/user-attachments/assets/a7883193-d006-4115-90c5-8030aac765d0)
-
 Gender-Based Demographics – Distribution of patients by gender
 
 Department Referrals – Insights on departments with the highest referrals
 
 # 📌 Final Result
 The final dashboard provides a visually engaging and interactive interface for hospital administrators and analysts to monitor ER operations in real time.
+
+![project 1](https://github.com/user-attachments/assets/a7883193-d006-4115-90c5-8030aac765d0)
 
